@@ -9,8 +9,12 @@ In one sentence, "I am a Data Scientist by profession, an Engineer by qualificat
 I love [reading, trekking and playing harmonica](https://www.youtube.com/channel/UCDFFMnTn71JcYqXO3IpRUsw).
 I am a fitness buff and I believe that "Health is Wealth".
 
-To reach out to me feel free to email me <firstname>1<lastname>@gmail.com
+Feel free to reach out to me by email or thorough LinkedIn.
+
+Email-id: firstname1lastname@gmail.com
+
 Website: https://sites.google.com/view/sohomghosh
+
 LinkedIn: https://www.linkedin.com/in/sohomghosh 
 
 <!--
