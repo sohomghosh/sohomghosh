@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Sohom here!
 I am a passionate Data Detective with hands-on experience in solving business problems. 
 I have been working on Data Sciences across different industries like Financial Services, Internet and so on.
 In addition to being the co-author of the book [Natural Language Processing Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals), I have several [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en) in proceedings of international conferences and refereed journals.
@@ -9,7 +9,7 @@ In one sentence, "I am a Data Scientist by profession, an Engineer by qualificat
 I love [reading, trekking and playing harmonica](https://www.youtube.com/channel/UCDFFMnTn71JcYqXO3IpRUsw).
 I am a fitness buff and I believe that "Health is Wealth".
 
-Feel free to reach out to me by email or thorough LinkedIn.
+Feel free to reach out to me by email or through LinkedIn.
 
 Email-id: firstname1lastname@gmail.com
 
