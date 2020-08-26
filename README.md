@@ -14,6 +14,8 @@ Feel free to reach out to me by email or through LinkedIn.
 
 Email-id: firstname1lastname@gmail.com
 
+Portfolio: https://sohomghosh.github.io/
+
 Website: https://sites.google.com/view/sohomghosh
 
 LinkedIn: https://www.linkedin.com/in/sohomghosh 
