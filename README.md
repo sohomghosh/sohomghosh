@@ -12,11 +12,9 @@ I am a fitness buff and I believe that "Health is Wealth".
 
 Feel free to reach out to me by email or through LinkedIn.
 
-Email-id: firstname1lastname@gmail.com
+Email-id: sohom1ghosh@gmail.com
 
-Portfolio: https://sohomghosh.github.io/
-
-Website: https://sites.google.com/view/sohomghosh
+Website: https://sohomghosh.github.io/
 
 LinkedIn: https://www.linkedin.com/in/sohomghosh 
 
