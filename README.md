@@ -1,4 +1,7 @@
 ### Hi there 👋, Sohom here!
+
+<img align="right" alt="GIF" src="https://github.com/sohomghosh/sohomghosh/blob/master/Hithere21_bobble-keyboard-watermark-v5_HD_84_3096_1.gif" />
+
 I am a passionate Data Detective with hands-on experience in solving business problems. 
 I have been working on Data Sciences across different industries like Financial Services, Internet and so on.
 
