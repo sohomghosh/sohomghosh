@@ -1,4 +1,4 @@
-<img align="right" width=400 height=350 alt="GIF" src="https://github.com/sohomghosh/sohomghosh/blob/master/Hithere21_bobble-keyboard-watermark-v5_HD_84_3096_1.gif" />
+<img align="right" width=350 height=300 alt="GIF" src="https://github.com/sohomghosh/sohomghosh/blob/master/Hithere21_bobble-keyboard-watermark-v5_HD_84_3096_1.gif" />
 
 ## :pray: Namaste :pray: Sohom Here!
 - :chart_with_upwards_trend: Passionate Data Detective
@@ -6,6 +6,7 @@
 - :books: Author of books: [NLP Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals) & [The NLP Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition)
 - :page_facing_up: Has [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en) in proceedings of conferences and journals
 - :mortar_board: Computer Science Engineer, M.Tech - [BITS Pilani, India](http://www.bits-pilani.ac.in/)
+- :notes: Loves reading & playing Harmonica
 - :runner: Athlete, Fitness Buff
-- :notes: Likes to play Harmonica
-- :incoming_envelope: [E-mail](sohom1ghosh@gmail.com),  [LinkedIn](https://www.linkedin.com/in/sohomghosh), [Website](https://sohomghosh.github.io/), [YouTube]()
+- :link: [Website](https://sohomghosh.github.io/), [YouTube](https://www.youtube.com/channel/UCDFFMnTn71JcYqXO3IpRUsw)
+- :incoming_envelope: [E-mail](sohom1ghosh@gmail.com),  [LinkedIn](https://www.linkedin.com/in/sohomghosh) 
