@@ -7,6 +7,5 @@
 - :page_facing_up: Has [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en) in proceedings of conferences and journals
 - :mortar_board: Computer Science Engineer, M.Tech - [BITS Pilani, India](http://www.bits-pilani.ac.in/)
 - :runner: Athlete, Fitness Buff
-- :musical_score: Likes to play Harmonica
-- :globe_with_meridians: Website - https://sohomghosh.github.io/
-- :e-mail: [E-mail](sohom1ghosh@gmail.com),  [LinkedIn] (https://www.linkedin.com/in/sohomghosh)
+- :notes: Likes to play Harmonica
+- :incoming_envelope: [E-mail](sohom1ghosh@gmail.com),  [LinkedIn](https://www.linkedin.com/in/sohomghosh), [Website](https://sohomghosh.github.io/), [YouTube]()
