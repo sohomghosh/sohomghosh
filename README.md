@@ -9,4 +9,4 @@
 - :runner: Athlete, Fitness Buff
 - :musical_score: Likes to play Harmonica
 - :globe_with_meridians: Website - https://sohomghosh.github.io/
-- [linkedin]: https://www.linkedin.com/in/t-rajapakse/
+- :e-mail: [E-mail](sohom1ghosh@gmail.com),  [LinkedIn] (https://www.linkedin.com/in/sohomghosh)
