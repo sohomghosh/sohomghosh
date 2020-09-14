@@ -4,8 +4,8 @@
 - :chart_with_upwards_trend: Data Scientist
 - :bulb: Solving business problems
 - :mortar_board: Computer Science Engineer, M.Tech - [BITS Pilani, India](http://www.bits-pilani.ac.in/)
-- :page_facing_up: Has [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en) in conference proceedings, journals
 - :books: Author of books: [NLP Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals) and [The NLP Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition)
+- :page_facing_up: Has [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en) in conference proceedings, refereed journals
 - :runner: Athlete, Fitness Buff, believes "Health is Wealth"
 - :notes: Artist, Loves to play [Harmonica](https://www.youtube.com/watch?v=ajFlw7rnfkI&list=PLWVXvBh2xmj_yWcdldvo6w1LD1C-d4xSw&ab_channel=SohomGhosh)
 - :link: [Website](https://sohomghosh.github.io/), [LinkedIn](https://www.linkedin.com/in/sohomghosh) 
