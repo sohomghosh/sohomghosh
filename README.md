@@ -1,5 +1,8 @@
+<!---
 <img align="right" width=350 height=300 alt="GIF" src="https://github.com/sohomghosh/sohomghosh/blob/master/Hithere21_bobble-keyboard-watermark-v5_HD_84_3096_1.gif" />
+--->
 
+<img align="right" width=350 height=300 alt="About Me" src="https://github.com/sohomghosh/sohomghosh/blob/master/aboutme.png" />
 ## :pray: Namaste :pray: Sohom Here!
 - :chart_with_upwards_trend: Data Scientist
 - :bulb: Solving business problems
