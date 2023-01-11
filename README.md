@@ -5,7 +5,7 @@
 <img align="right" width=400 height=400 alt="About Me" src="https://github.com/sohomghosh/sohomghosh/blob/master/aboutme.png" />
 
 ## :pray: Namaste :pray: Sohom Here!
-- :chart_with_upwards_trend: Data Scientist
+- :chart_with_upwards_trend: Senior Data Scientist
 - :bulb: Solving business problems
 - :mortar_board: Computer Science Engineer, M.Tech - [BITS Pilani, India](http://www.bits-pilani.ac.in/)
 - :books: Author of books: [NLP Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals) & [The NLP Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition)
