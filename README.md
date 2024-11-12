@@ -12,6 +12,6 @@
 - :books: Author of books: [NLP Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals) & [The NLP Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition)
 - :page_facing_up: [Publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en) in A*/A conferences (WWW, CIKM, COLING, LREC, etc.)
 - :runner: Athlete, Fitness Buff, believes "Health is Wealth"
-- :notes: Artist, Loves to play [Harmonica](https://www.youtube.com/watch?v=ajFlw7rnfkI&list=PLWVXvBh2xmj_yWcdldvo6w1LD1C-d4xSw&ab_channel=SohomGhosh) & Cajon
-- :link: [Website](https://sohomghosh.github.io/), [LinkedIn](https://www.linkedin.com/in/sohomghosh) 
+- :notes: [Traveller](https://www.youtube.com/playlist?list=PLWVXvBh2xmj8BHN7jBCsaKpd5JP4xOT7T), [Harmonica Player](https://www.youtube.com/watch?v=ajFlw7rnfkI&list=PLWVXvBh2xmj_yWcdldvo6w1LD1C-d4xSw&ab_channel=SohomGhosh)
+- :link: [Website](https://sohomghosh.github.io/), [LinkedIn](https://www.linkedin.com/in/sohomghosh), [X](https://x.com/sohom1ghosh)
 - :incoming_envelope: [E-mail](mailto:sohom1ghosh@gmail.com)
