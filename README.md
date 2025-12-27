@@ -6,9 +6,9 @@
 
 
 ## :pray: Namaste :pray: Sohom Here!
-- :chart_with_upwards_trend: Senior Data Scientist
+- :chart_with_upwards_trend: Machine Learning Engineer
 - :bulb: Solving business problems | [US Patent Holder](https://patentimages.storage.googleapis.com/b0/9c/03/5b842d94151bc7/US20230112369A1.pdf)
-- :mortar_board: CS Engineer, M.Tech - [BITS Pilani, India](http://www.bits-pilani.ac.in/), PhD (Thesis submitted)
+- :mortar_board: CS Engineer, M.Tech - [BITS Pilani, India](http://www.bits-pilani.ac.in/), PhD - Jadavpur University, India
 - :books: Author of books: [NLP Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals) & [The NLP Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition)
 - :page_facing_up: [Publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en) in A*/A conferences (WWW, CIKM, COLING, LREC, etc.)
 - :runner: Athlete, Fitness Buff, believes "Health is Wealth"
