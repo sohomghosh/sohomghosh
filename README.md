@@ -9,7 +9,7 @@
 - :chart_with_upwards_trend: Machine Learning Engineer
 - :bulb: Solving business problems | [US Patent Holder](https://patentimages.storage.googleapis.com/b0/9c/03/5b842d94151bc7/US20230112369A1.pdf)
 - :mortar_board: CS Engineer, M.Tech - [BITS Pilani, India](http://www.bits-pilani.ac.in/), PhD - Jadavpur University, India
-- :books: Author of books: [NLP Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals) & [The NLP Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition)
+- :books: Author of books: NLP Fundamentals & The NLP Workshop
 - :page_facing_up: [Publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en) in A*/A conferences (WWW, CIKM, COLING)
 - :runner: Athlete, Fitness Buff, believes "Health is Wealth"
 - :notes: [Traveller](https://www.youtube.com/playlist?list=PLWVXvBh2xmj8BHN7jBCsaKpd5JP4xOT7T), [Harmonica Player](https://www.youtube.com/watch?v=ajFlw7rnfkI&list=PLWVXvBh2xmj_yWcdldvo6w1LD1C-d4xSw&ab_channel=SohomGhosh)
