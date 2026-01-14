@@ -6,9 +6,9 @@
 
 
 ## :pray: Namaste :pray: Sohom here!
-- :chart_with_upwards_trend: Machine Learning Engineer
+- :chart_with_upwards_trend: Machine Learning Engineer @ FAANG
 - :bulb: Solving business problems | [US Patent Holder](https://patentimages.storage.googleapis.com/b0/9c/03/5b842d94151bc7/US20230112369A1.pdf)
-- :mortar_board: CS Engineer, M.Tech - [BITS Pilani, India](http://www.bits-pilani.ac.in/), PhD - Jadavpur University, India
+- :mortar_board: CS Engineer, M.Tech - [BITS Pilani, India](http://www.bits-pilani.ac.in/); PhD - [Jadavpur University, India](https://jadavpuruniversity.in/)
 - :books: Author of books: NLP Fundamentals & The NLP Workshop
 - :page_facing_up: [Publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en) in A*/A conferences (WWW, CIKM, COLING)
 - :runner: Athlete, Fitness Buff, believes "Health is Wealth"
